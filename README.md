@@ -1,5 +1,5 @@
 # SalesforceLinks
-This repo is my holding tank for handy bits of code, links and other useful bits of information. The focus is Salesforce Development.
+This repo is my holding tank for handy bits of code, links and other useful bits of information. The focus is Salesforce Development. For a handy sheet or Markdown go [here] (https://www.markdownguide.org/cheat-sheet)
 
 ## GENERAL
 | Site | Link|
@@ -14,6 +14,7 @@ This repo is my holding tank for handy bits of code, links and other useful bits
 ## INTEGRATIONS
 | Site | Link|
 -------|-------|
+| Salesforce Connect | https://help.salesforce.com/articleView?id=platform_connect_about.htm&type=5 |
 
 ## DATA
 | Site | Link|
