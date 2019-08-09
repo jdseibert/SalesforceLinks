@@ -24,5 +24,15 @@ This repo is my holding tank for handy bits of code, links and other useful bits
 ## CERTIFICAITONS
 
 | Site | Link|
--------|-------|
+|-------|-------|
+
+## JAVASCRIPT
+| Site | Link|
+|-------|------|
+|JQuery | https://jquery.com/ |
+|JQuery UI | https://jqueryui.com/ |
+
+## CI/CD/ADO - AZURE DEV OPS
+| Site | Link |
+|------|----|
 
