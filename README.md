@@ -1,2 +1,10 @@
 # SalesforceLinks
-This repo will contain useful info about Salesforce like links and handy snippets of code.
+This repo is my holding tank for handy bits of code, links and other useful bits of information.
+
+GENERAL
+
+INTEGRATIONS
+
+DATA
+
+
