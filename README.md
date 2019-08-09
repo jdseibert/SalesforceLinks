@@ -19,6 +19,7 @@ This repo is my holding tank for handy bits of code, links and other useful bits
 ## DATA
 | Site | Link|
 -------|-------|
+| Data Loader | https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/data_loader.htm |
 
 ## CERTIFICAITONS
 
